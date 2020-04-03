@@ -10,3 +10,5 @@ Visualizador de links como o utilizado nos comentário do facebook, conforme ví
  - [Bootstrap](https://getbootstrap.com/docs/4.4/components/buttons/)
  
  - [Cheerio](https://cheerio.js.org/)
+ 
+ - [CORS ANYWHERE](https://cors-anywhere.herokuapp.com/)
